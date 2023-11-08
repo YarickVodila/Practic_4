@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practic_4</string>
+    <string name="red">Красный</string>
+    <string name="pink">Розовый</string>
+    <string name="green">зелёный</string>
+    <string name="text_down">Уменьшить текст</string>
+    <string name="text_up">Увеличить текст</string>
+</resources>
